@@ -7,7 +7,7 @@
 ---
 
 ## Live Application Link
-* **Deployed Project:** [Paste Soniya's Vercel link here]
+* **Deployed Project:** https://week1-assignments-seven.vercel.app
 
 ---
 
