@@ -2,7 +2,7 @@
 
 **Intern:** Soniya Singh  
 **Domain:** Web Development Track  
-**GitHub Profile:** [Soniya1239](https://github.com)
+**GitHub Profile:** https://github.com/Soniya1239/week1-assignments
 
 ---
 
